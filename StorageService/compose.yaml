@@ -1,0 +1,6 @@
+﻿services:
+  storageservice:
+    image: storageservice
+    build:
+      context: .
+      dockerfile: StorageService/Dockerfile

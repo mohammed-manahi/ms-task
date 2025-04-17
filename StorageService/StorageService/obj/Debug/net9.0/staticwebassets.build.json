@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gTV+n52DS/+5hj4owGLceiGwOBatDU4mQLkmAfM1kSM=",
+  "Source": "StorageService",
+  "BasePath": "_content/StorageService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

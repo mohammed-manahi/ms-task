@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vUUPgE+9xMO31sLVP2L2INHzIQlVnPkhpJ1dDX0/cuo=",
+  "Source": "AppService",
+  "BasePath": "_content/AppService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
